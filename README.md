@@ -2,7 +2,7 @@
 
 ## Simple bar
 
-The simple-bar folder is located in /Users/blewbs/Library/Application\ Support/Übersicht/widgets/simple-bar. Go to lib/styles/themes. Put the .js file in there, then edit the themes.js in the previous directory for it to show up in your bar config.
+The simple-bar folder is located in ~/Library/Application\ Support/Übersicht/widgets/simple-bar. Go to lib/styles/themes. Put the .js file in there, then edit the themes.js in the previous directory for it to show up in your bar config.
 
 ## Launcher
 
