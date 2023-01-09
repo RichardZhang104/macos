@@ -1,4 +1,11 @@
 # macos
+## Components
+
+Terminal: iTerm2
+Bar: Ubersicht - Simple bar
+WM: Yabai
+Keybinds: skhd/karabiner elements
+Theme: Catpuccin Macchiato, follow the instructions on catpuccin page to install for various apps
 
 ## Simple bar
 
